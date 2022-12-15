@@ -3,6 +3,10 @@
 
 Meu Primeiro projeto feito com alura em react-Native
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Cesta de compras**
+| :label: Tecnologias | React-Native
 
 
 ## Aprendizados
